@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/yao/C++/Covid_Research/NPBCOVID",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-I", "/home/yao/.xmake/packages/g/gcem/v1.16.0/f3ca93f184ec404a9648a4923f3a53e3/include", "-I", "/home/yao/.xmake/packages/a/armadillo/11.2.3/cb09550613c5473f9fef79cc4f460086/include", "-I", "/home/yao/.xmake/packages/s/superlu/v5.3.0/a009314983374186a9b2ba9721d74ed1/include", "-I", "/home/yao/.xmake/packages/o/openblas/0.3.21/811c62adbd54418cb6c78d3b43ac74ff/include", "-fopenmp", "-DNDEBUG", "-o", "build/.objs/NPBCOVID/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
